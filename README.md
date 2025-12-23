@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real-world Data Analysis Projects**
 
-- 🌱 I’m currently learning **Python for Data Analysis, Power BI,SQL,Excel**
+- 🌱 I’m currently learning **Python for Data Analysis, Power BI, SQL ,Excel**
 
 - 👯 I’m looking to collaborate on **Data Analytics & Visualization Projects**
 
